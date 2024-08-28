@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Project 10: Tabs
+
+This feature is useful and can be integrated into your projects on dashboards, e-commerce sites, tabs for product descriptions and many others.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
